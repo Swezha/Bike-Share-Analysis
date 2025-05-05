@@ -31,10 +31,13 @@ Tableau - Interactive visualizations for data storytelling
 - Partnerships with local businesses near key bike stations.
 - Loyalty rewards for repeat casual riders to encourage membership.
 
-View Tableau Visualizations
+**Visualizations**
 Check out the interactive dashboard here
+![Average Ride Duration by Member Type and Day of Week](https://github.com/user-attachments/assets/2372a8d1-a37f-4dfb-a6fc-d1dff759dd61)
+![Number of Rides by Member Type and Day of Week](https://github.com/user-attachments/assets/0eaa648a-728a-4ba9-adad-0cc10b85cc38)
 
 **Project Structure**
+
 Bike-Share-Analysis/
 │── data/              # Raw & processed datasets  
 │── scripts/           # R scripts for analysis  
