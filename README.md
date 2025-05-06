@@ -1,10 +1,15 @@
 **Bike Share Analysis**
+
 **Project Overview**
-Cyclistic, a bike-share company in Chicago, aims to increase annual memberships by converting casual riders into members. This project analyzes historical ride data to identify differences in riding patterns and provide data-backed marketing recommendations.
+
+Cyclistic, a fictional bike-share company in Chicago, aims to increase annual memberships by converting casual riders into members. This project analyzes historical ride data to identify differences in riding patterns and provide data-backed marketing recommendations.
+
 **Objective**
+
 - Understand how casual riders and annual members use Cyclistic bikes differently.
 - Identify trends that influence casual riders to purchase memberships.
 - Provide actionable marketing strategies based on data insights.
+  
 **Business Questions**
 1. How do annual members and casual riders differ in bike usage?
 2. What factors influence casual riders to become members?
